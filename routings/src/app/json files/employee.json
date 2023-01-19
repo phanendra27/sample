@@ -1,0 +1,38 @@
+[
+        {
+            "empid":1,
+            "empname":"surendhra",
+            "empmail":"suren@gmail.com",
+            "domain":"software",
+            "experience": " 5 years"
+        },
+        {
+            "empid":5,
+            "empname":"sundhar",
+            "empmail":"sundhar@gmail.com",
+            "domain":"software",
+            "experience": " 3 years"
+
+        },
+        {
+            "empid":7,
+            "empname":"balakrishna",
+            "empmail":"krishbala@gmail.com",
+            "domain":"software developer",
+            "experience": " 2 years"
+        },
+        {
+            "empid":3,
+            "empname":"vinay",
+            "empmail":"apporvavinay@gmail.com",
+            "domain":"Devops engineer",
+            "experience": " 1 years"
+        },
+        {
+            "empid":13,
+            "empname":"himanjan",
+            "empmail":"himajan@gmail.com",
+            "domain":"software",
+            "experience": " 2 years"
+        }
+    ]
